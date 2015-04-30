@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B1C36ACF-98B1-4FCE-9830-AFABDB78BD0E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Facts</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>00239EE9B6A7E5173BAEB83CCF5F23F48563168F</key>
+		<string>https://github.com/sagayalourdusamy/proficiencyexcersice.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Facts.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>00239EE9B6A7E5173BAEB83CCF5F23F48563168F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sagayalourdusamy/proficiencyexcersice.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>00239EE9B6A7E5173BAEB83CCF5F23F48563168F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>00239EE9B6A7E5173BAEB83CCF5F23F48563168F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>proficiencyexcersice</string>
+		</dict>
+	</array>
+</dict>
+</plist>
