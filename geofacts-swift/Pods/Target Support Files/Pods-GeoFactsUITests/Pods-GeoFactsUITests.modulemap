@@ -1,0 +1,6 @@
+framework module Pods_GeoFactsUITests {
+  umbrella header "Pods-GeoFactsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

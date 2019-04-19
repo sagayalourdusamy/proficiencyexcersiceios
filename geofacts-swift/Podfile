@@ -1,0 +1,27 @@
+platform :ios, '10.0'
+
+workspace 'GeoFacts'
+
+def shared_pods
+pod 'Alamofire', '~> 4.5'
+pod 'SwiftLint'
+end
+
+target 'GeoFacts' do
+  use_frameworks!
+
+  # Pods for GeoFacts
+
+  shared_pods
+
+  target 'GeoFactsTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'GeoFactsUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
