@@ -1,0 +1,6 @@
+framework module Pods_NationFactsTests {
+  umbrella header "Pods-NationFactsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
